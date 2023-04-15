@@ -29,12 +29,12 @@ const readMore = more.repeat(4001)
 
 global.owner = [
 ['62823504965329', true],
-['62823504965329', 'XFerDy', true],
-['62823504965328', 'Ferdy Firmansyah', true]
+['62823504965329', '𝗫𝗙𝗲𝗿𝗗𝘆', true],
+['62823504965328', '𝗙𝗲𝗿𝗱𝘆 𝗙𝗶𝗿𝗺𝗮𝗻𝘀𝘆𝗮𝗵', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6281357435388'
+global.nomorbot = '0'
 global.nomorown = '62823504965329'
 global.nomorown1 = '62823504965329'
 global.nomorown2 = '62823504965328'
@@ -42,21 +42,21 @@ global.nomorwa = '0'
 
 
 global.readMore = readMore
-global.author = 'XFerrdy'
-global.namebot = 'AstroBOT-Md'
-global.wm = '© AstroBot By XFerdy'
+global.author = '𝗫𝗙𝗲𝗿𝗿𝗗𝘆'
+global.namebot = '𝗔𝘀𝘁𝗿𝗼𝗕𝗼𝘁 - 𝗠𝗗'
+global.wm = '© 𝗔𝘀𝘁𝗿𝗼𝗕𝗼𝘁 - 𝗠𝗗 𝗕𝘆 𝗫𝗙𝗲𝗿𝗗𝘆'
 global.media = 'https://telegra.ph/file/ef6ceeab79acd63bf7927.jpg'
 global.watermark = wm
-global.wm2 = 'AstroBOT-Md'
-global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
-global.bottime = `Time: ${wktuwib}`
-global.titlebot = `AstroBOT-Md`
-global.stickpack = 'AstroBOT-Md By'
-global.stickauth = `© XFerrdy`
+global.wm2 = '✬ 𝗔𝘀𝘁𝗿𝗼𝗕𝗼𝘁 - 𝗠𝗗 ✬'
+global.botdate = `𝗗𝗔𝗧𝗘: ${week} ${date}\n𝗧𝗜𝗠𝗘: ${wktuwib}`
+global.bottime = `𝗧𝗜𝗠𝗘: ${wktuwib}`
+global.titlebot = `𝗔𝘀𝘁𝗿𝗼𝗕𝗼𝘁 - 𝗠𝗗`
+global.stickpack = '𝗔𝘀𝘁𝗿𝗼𝗕𝗼𝘁 - 𝗠𝗗 𝗕𝘆'
+global.stickauth = `© 𝗫𝗙𝗲𝗿𝗿𝗗𝘆`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
-global.nameown1= 'XFerDy'
-global.nameown2 = 'Ferdy Firmansyah'
+global.nameown1= '𝗫𝗙𝗲𝗿𝗿𝗗𝘆'
+global.nameown2 = '𝗙𝗲𝗿𝗱𝘆 𝗙𝗶𝗿𝗺𝗮𝗻𝘀𝘆𝗮𝗵'
 global.Linkgc = 'Bentar'
 global.lynk = '-'
 //Link Social Media Ganti Aja Kalau Ga Punya Biarin Aja
@@ -86,30 +86,30 @@ global.dmenut = 'ଓ═┅═━–〈' //top
 global.dmenub = '┊↬' //body
 global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
-global.dashmenu = '❏ *DASHBOARD* ❏'
+global.dashmenu = '❏ *𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱* ❏'
 global.cmenut = '❏––––––『' //top
 global.cmenuh = '』' //header
-global.cmenub = '┊✦ ' //body
+global.cmenub = '┊❏ ' //body
 global.cmenuf = '┗━═┅═━––––––๑\n' //footer
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     '
-global.pmenus = '✦'
+global.pmenus = '❏'
 global.htki = '『' // Hiasan Titile (KIRI)
 global.htka = '』' // Hiasan Title  (KANAN)
 global.lopr = 'Ⓟ' //LOGO PREMIUM ON MENU.JS
 global.lolm = 'Ⓛ' //LOGO LIMIT/FREE ON MENU.JS
-global.htjava = '✦'    //hiasan Doang :v
+global.htjava = '❏'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 // wait proses
-global.stiker_wait = '_Sedang Di Proses, Mohon Tunggu_.....'
-global.wait = '_Sedang Di Proses, Mohon Tunggu_....'
-global.eror = 'Terjadi Kesalahan Coba Lagi Nanti!'
+global.stiker_wait = 'sᴇᴅᴀɴɢ ᴅɪ ᴘʀᴏsᴇs.....'
+global.wait = 'ᴡᴀɪᴛ...\nᴘʀᴏsᴇs....'
+global.eror = 'ᴛᴇʀᴊᴀᴅɪ ᴋᴇsᴀʟᴀʜᴀɴ\nᴍᴏʜᴏɴ ᴄᴏʙᴀ ʟᴀɢɪ'
 // kata game tapi biarin aja ga ngaruh :v
-global.benar = '𝙶𝚘𝚘𝚍 𝙹𝚘𝚋𝚋! ◕◡◕'
-global.salah = '𝙽𝚘𝚝 𝙱𝚊𝚍! ◕◠◕'
-global.dikit = "𝙳𝚒𝚔𝚒𝚝 𝙻𝚊𝚐𝚒,𝚂𝚎𝚖𝚊𝚗𝚐𝚊𝚝!!"
+global.benar = 'ɢᴏᴏᴅ ᴊᴏʙ'
+global.salah = 'ɴᴏᴛ ʙᴀᴅ!'
+global.dikit = "ᴅɪᴋɪᴛ ʟᴀɢɪ, sᴇᴍᴀɴɢᴀᴛ!!"
 
 
-global.multiplier = 69 // The higher, The harder levelup
+global.multiplier = 37 // The higher, The harder levelup
 global.rpg = {
   emoticon(string) {
     string = string.toLowerCase()
@@ -251,9 +251,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 'https://telegra.ph/file/180e28807e78419d45537.jpg','https://telegra.ph/file/140eff27be983e0cd6781.jpg','https://telegra.ph/file/1581b791e16d0029e16b5.jpg','https://telegra.ph/file/6a4b36372b4f265bae3bc.jpg','https://telegra.ph/file/093caff422f194f00bc6c.jpg','https://telegra.ph/file/2294b7ab49eca8a8046b2.jpg','https://telegra.ph/file/869224d1c417e8b5c8ff1.jpg','https://telegra.ph/file/a78443f0ee887f46808d7.jpg','https://telegra.ph/file/1889878933264d16c58bf.jpg','https://telegra.ph/file/735aeb47d9c4aa87aaaf3.jpg','https://telegra.ph/file/fcf861516db09dda164e0.jpg','https://telegra.ph/file/355d96d7e06d109435f67.jpg']
 
 
-global.dtu = 'Official Group'
+global.dtu = '𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗚𝗿𝗼𝘂𝗽'
 global.urlnya = "https://chat.whatsapp.com/FQH6CI63LJCBTySzClHrrg"
-global.dtc = 'Call Owner'
+global.dtc = '𝗖𝗮𝗹𝗹 𝗢𝘄𝗻𝗲𝗿'
 global.phn = '082350496532'
 
 global.fsizedoc = '999'
