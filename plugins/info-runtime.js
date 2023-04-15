@@ -35,7 +35,7 @@ let handler = async (m, { conn, args, command }) => {
     mediaUrl: 'https://github.com/Zeltoria',
     mediaType: 2, 
     description: sgc,
-    title: "Euphyllia - MD",
+    title: "Astro-Bot - MD",
     body: wm,
     thumbnail: fs.readFileSync('./thumbnail.jpg'),
     sourceUrl: sgc

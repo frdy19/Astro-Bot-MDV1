@@ -1,7 +1,7 @@
 let handler = async(m, { conn, args, usedPrefix }) => {
 
     if (args.length == 0) return conn.reply(m.chat, `Harap masukan Kode FreeGiftmu!`, m)
-    if (args[0] == 'akusange' || args[0] == 'freegift' || args[0] == 'freeyaemiko' || args[0] == 'giftkey1121' || args[0] == '123123' || args[0] == 'kode011') {
+    if (args[0] == 'asb07xr' || args[0] == 'freegift' || args[0] == 'freeyaemiko' || args[0] == 'giftkey1121' || args[0] == '123123' || args[0] == 'kode011') {
 
     if (new Date - global.db.data.users[m.sender].lastgift > 86400000) {
        conn.reply(m.chat, '*🎉 SELAMAT!*\nKamu Telah Mendapatkan\n1000 XP ✨\n 1 Limit! 🎫\n1000 Money 💹\n1 Potion 🥤', m)

@@ -31,7 +31,7 @@ handler.help = ['cheatbot', 'cheat']
 handler.tags = ['rpg']
 handler.command = /^(cheat(bot)?|cheat)$/i
 handler.private = false
-handler.owner = false
-handler.premium = true
+handler.owner = true
+handler.premium = false
 
 export default handler

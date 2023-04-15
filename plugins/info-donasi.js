@@ -1,15 +1,15 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	let text = `
-┌─「 Donasi 」
-│• Gopay/dana = 085718828566
+┌─「 𝗗𝗼𝗻𝗮𝘀𝗶 」
+│• 𝗼𝘃𝗼/𝗱𝗮𝗻𝗮 = 0823504965329
 ❏───────────
 `;
 	const templateButtons = [
-		{ index: 1, urlButton: { displayText: "✨ Saweria", url: psaweria } },
-		{ index: 2, urlButton: { displayText: "📷 Instagram", url: sig } },
-		{ index: 3, urlButton: { displayText: "🌎 Official Group", url: sgc } },
-		{ index: 4, quickReplyButton: { displayText: "Menu", id: ".menu" } },
-		{ index: 5, quickReplyButton: { displayText: "Owner", id: ".owner" } },
+		{ index: 1, urlButton: { displayText: "✨ sᴀᴡᴇʀɪᴀ", url: psaweria } },
+		{ index: 2, urlButton: { displayText: "📷 ɪɴsᴛᴀɢʀᴀᴍ", url: sig } },
+		{ index: 3, urlButton: { displayText: "🌎 ᴏғғɪᴄɪᴀʟ ɢʀᴜᴘ", url: sgc } },
+		{ index: 4, quickReplyButton: { displayText: "ᴍᴇɴᴜ", id: ".menu" } },
+		{ index: 5, quickReplyButton: { displayText: "ᴏᴡɴᴇʀ", id: ".owner" } },
 	];
 	let tm = {
 		text: text,

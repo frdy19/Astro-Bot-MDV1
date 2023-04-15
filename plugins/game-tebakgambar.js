@@ -1,7 +1,7 @@
 import { tebakgambar } from '@bochilteam/scraper'
 
 let timeout = 120000
-let poin = 4999
+let poin = 7800
 let handler = async (m, { conn, usedPrefix }) => {
     conn.tebakgambar = conn.tebakgambar ? conn.tebakgambar : {}
     let id = m.chat

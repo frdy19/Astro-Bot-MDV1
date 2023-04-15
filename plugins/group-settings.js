@@ -11,7 +11,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
 `.trim()
     await conn.groupSettingUpdate(m.chat, isClose)
 }
-handler.help = ['group']
+handler.help = ['group', 'gc']
 handler.tags = ['group']
 handler.command = /^(group)$/i
 

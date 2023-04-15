@@ -17,33 +17,33 @@ let handler = async function (m, { text, usedPrefix, command }) {
     {
 	title: "Dewasa",
 	rows: [
-	    {title: "🌸30• Tahun", rowId: '.daftar ' + namae + '.30 '},
-	    {title: "🎐29• Tahun", rowId: '.daftar ' + namae + '.29 '},
-	    {title: "🌸28• Tahun", rowId: '.daftar ' + namae + '.28 '},
-	{title: "🎐27• Tahun", rowId: '.daftar ' + namae + '.27 '},
-	{title: "🌸26• Tahun", rowId: '.daftar ' + namae + '.26 '},
-	{title: "🎐25• Tahun", rowId: '.daftar ' + namae + '.25 '},
-	{title: "🌸24• Tahun", rowId: '.daftar ' + namae + '.24 '},
-	{title: "🎐23• Tahun", rowId: '.daftar ' + namae + '.23 '},
-	{title: "🌸22• Tahun", rowId: '.daftar ' + namae + '.22 '},
-	{title: "🎐21• Tahun", rowId: '.daftar ' + namae + '.21 '}
+	    {title: "❏ 30• Tahun", rowId: '.daftar ' + namae + '.30 '},
+	    {title: "❏ 29• Tahun", rowId: '.daftar ' + namae + '.29 '},
+	    {title: "❏ 28• Tahun", rowId: '.daftar ' + namae + '.28 '},
+	{title: "❏ 27• Tahun", rowId: '.daftar ' + namae + '.27 '},
+	{title: "❏ 26• Tahun", rowId: '.daftar ' + namae + '.26 '},
+	{title: "❏ 25• Tahun", rowId: '.daftar ' + namae + '.25 '},
+	{title: "❏ 24• Tahun", rowId: '.daftar ' + namae + '.24 '},
+	{title: "❏ 23• Tahun", rowId: '.daftar ' + namae + '.23 '},
+	{title: "❏ 22• Tahun", rowId: '.daftar ' + namae + '.22 '},
+	{title: "❏ 21• Tahun", rowId: '.daftar ' + namae + '.21 '}
 	]
     },
     {
 	title: "Remaja",
 	rows: [
-	    {title: "🌸20• Tahun", rowId: '.daftar ' + namae + '.20 '},
-	    {title: "🎐19• Tahun", rowId: '.daftar ' + namae + '.19 '},
-	    {title: "🌸18• Tahun", rowId: '.daftar ' + namae + '.18 '},
-	{title: "🎐17• Tahun", rowId: '.daftar ' + namae + '.17 '},
-	{title: "🌸16• Tahun", rowId: '.daftar ' + namae + '.16 '},
-	{title: "🎐15• Tahun", rowId: '.daftar ' + namae + '.15 '},
-	{title: "🌸14• Tahun", rowId: '.daftar ' + namae + '.14 '},
-	{title: "🎐13• Tahun", rowId: '.daftar ' + namae + '.13 '},
-	{title: "🌸12• Tahun", rowId: '.daftar ' + namae + '.12 '},
-	{title: "🎐11• Tahun", rowId: '.daftar ' + namae + '.11 '},
-	{title: "🌸10• Tahun", rowId: '.daftar ' + namae + '.10 '},
-	{title: "🎐9• Tahun", rowId: '.daftar ' + namae + '.9 '}
+	    {title: "❏ 20• Tahun", rowId: '.daftar ' + namae + '.20 '},
+	    {title: "❏ 19• Tahun", rowId: '.daftar ' + namae + '.19 '},
+	    {title: "❏ 18• Tahun", rowId: '.daftar ' + namae + '.18 '},
+	{title: "❏ 17• Tahun", rowId: '.daftar ' + namae + '.17 '},
+	{title: "❏ 16• Tahun", rowId: '.daftar ' + namae + '.16 '},
+	{title: "❏ 15• Tahun", rowId: '.daftar ' + namae + '.15 '},
+	{title: "❏ 14• Tahun", rowId: '.daftar ' + namae + '.14 '},
+	{title: "❏ 13• Tahun", rowId: '.daftar ' + namae + '.13 '},
+	{title: "❏ 12• Tahun", rowId: '.daftar ' + namae + '.12 '},
+	{title: "❏ 11• Tahun", rowId: '.daftar ' + namae + '.11 '},
+	{title: "❏ 10• Tahun", rowId: '.daftar ' + namae + '.10 '},
+	{title: "❏ 9• Tahun", rowId: '.daftar ' + namae + '.9 '}
 	]
     },
 ]
@@ -78,7 +78,7 @@ const listMessage = {
 ╰═┅═━––––––
 `
   let buttonMessage= {
-'document':{'url':'https://www.youtube.com/'},
+'document':{'url':'https://chat.whatsapp.com/FQH6CI63LJCBTySzClHrrg'},
 'mimetype':global.ddocx,
 'fileName':'「 Registration 」',
 'fileLength':fsizedoc,
@@ -87,13 +87,13 @@ const listMessage = {
 'forwardingScore':555,
 'isForwarded':true,
 'externalAdReply':{
-'mediaUrl':'https://www.youtube.com/',
+'mediaUrl':'https://chat.whatsapp.com/FQH6CI63LJCBTySzClHrrg',
 'mediaType':2,
 'previewType':'pdf',
 'title':global.titlebot,
 'body':global.titlebot,
 'thumbnail':await(await fetch('https://telegra.ph/file/8916f411ff91580f31661.jpg')).buffer(),
-'sourceUrl':'https://www.youtube.com/'}},
+'sourceUrl':'https://chat.whatsapp.com/FQH6CI63LJCBTySzClHrrg'}},
 'caption':cap,
 'footer':botdate,
 'buttons':[

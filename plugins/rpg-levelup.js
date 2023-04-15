@@ -27,7 +27,7 @@ Kurang *${max - user.exp}* Lagi!
     if (before !== user.level) {
         let teks = `.             ${user.role}`
         let str = `
-*Selamat*
+*S E L A M A T*
 *${before}* ➔ *${user.level}* [ *${user.role}* ]`.trim()
         m.reply(`Selamat, Kamu Telah Naik Level! *${before}* -> *${user.level}*`.trim())
         }

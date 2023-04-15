@@ -9,7 +9,7 @@ contextInfo: { externalAdReply :{
                         mediaUrl: '',
                         mediaType: 2,
                         description: wm,
-                        title: 'Euphyllia - MD',
+                        title: 'AstroBot - MD',
                         body: '',          previewType: 0,
                         thumbnail: fs.readFileSync("./thumbnail.jpg"),
                         sourceUrl: sig

@@ -23,18 +23,14 @@ import fetch from 'node-fetch'
 let handler = async(m, { conn, text, usedPrefix, command }) => {
 let pp = await conn.profilePictureUrl(m.chat).catch(_ => null)
 
-let krtu = `0ཻུ۪۪ꦽꦼ̷⸙‹•══════════════♡᭄
-│       *「 Kartu Intro 」*
-│ *Nama     :* 
-│ *Gender   :* 
-│ *Umur      :* 
-│ *Hobby    :* 
-│ *Kelas      :* 
-│ *Asal         :* 
-│ *Agama    :* 
-│ *Status     :* 
-╰═════ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙
-`
+let krtu = `┏━━❏ *Kartu Intro*
+┃❏  *Nama:* 
+┃❏  *Gender:* 
+┃❏  *Umur:* 
+┃❏  *Kelas:* 
+┃❏  *Asal:* 
+┃❏  *Hobby:* 
+┗━━━━━━━━━❏`
 m.reply(krtu)
 }
 /*let wibu = `https://telegra.ph/file/b5cc36920ff446bd25de7.jpg` 
@@ -53,4 +49,3 @@ conn.sendButtonImg(m.chat, krtu, 'Jangan Lupa Diisi','\nSaya Govlok','huuu', m, 
 handler.command = /^(intro)$/i
 
 export default handler
-

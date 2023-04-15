@@ -24,7 +24,7 @@ thumbnail: await (await fetch(json.pp)).buffer(),
  thumbnailUrl: sgc,
  title: json.username }}})
 }
-handler.help = ['tiktokmp3','tiktokaudio']
+handler.help = ['tiktokmp3','tiktokaudio','ttmp3']
 handler.tags = ['downloader']
 handler.command = /^(tiktokaudio|tiktokmp3|ttdlmp3|ttmp3|tiktokdlmp3|gettt)$/i
 export default handler

@@ -2,20 +2,20 @@ let handler = async (m, { conn }) => {
 	//-----PRICE
 //sewa
 let sh = '5'
-let sn = '15'
-let ss = '30'
-let sp = '35'
-let sv = '65'
+let sn = '10'
+let ss = '15'
+let sp = '20'
+let sv = '30'
 //premium
 let ph = '5'
-let pn = '20'
-let pp = '40'
-let pv = '50'
-let ppm = '70'
+let pn = '10'
+let pp = '18'
+let pv = '25'
+let ppm = '30'
 let info = `
 ╭━━━━「 *SEWA* 」
-┊• *1 Minggu:* 3K
-┊• *1 Bulan:* 12K
+┊• *1 Minggu:* 5K
+┊• *1 Bulan:* 15K
 ┊• *2 Bulan:* 20K
 ┊• *Permanen:* 30K
 ╰═┅═━––––––๑
@@ -26,7 +26,7 @@ let info = `
 
 *PAYMENT:*
 
-• *Ovo:* [${povo}]
+• *Ovo/Dana:* [${povo}]
 `
 const sections = [
    {

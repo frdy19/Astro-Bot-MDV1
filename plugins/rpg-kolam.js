@@ -18,13 +18,13 @@ let ikan = global.db.data.users[m.sender].ikan
 let orca = global.db.data.users[m.sender].orca
 let past = `*––––––「 KOLAM️ 」––––––*
  
-╭━━━━「 *BIO* 」   
+╭━━━━❏「 *BIO* 」   
 ┊*Name :* ${name}
 ┊*Level :* ${level}
 ┊*Exp :* ${exp}
-╰═┅═━––––––─ׄ✧
+╰═┅═━––––––─ׄ❏
 
-╭━━━━「 *ISI* 」
+╭━━━━❏「 *ISI* 」
 ┊🐳 Paus: *${paus}*   
 ┊🦀 Kepiting: *${kepiting}*   
 ┊🐙 Gurita: *${gurita}*   
@@ -37,7 +37,7 @@ let past = `*––––––「 KOLAM️ 」––––––*
 ┊🦐 Udang: *${udang}*
 ┊🐟 Ikan: *${ikan}*
 ┊🐋 Orca: *${orca}*
-╰═┅═━––––––─ׄ✧
+╰═┅═━––––––─ׄ❏
 🎏 Total Isi: *${paus + kepiting + gurita + cumi + buntal + dory + lumba + lobster + hiu + udang + ikan + orca}* Jenis`
 let isi = ` *🦀Kepiting = ${kepiting}*
 *🐠Dory = ${dory}*

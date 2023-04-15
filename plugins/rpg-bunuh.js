@@ -32,7 +32,7 @@ var dimas = `
 `
 
 var dimas2 = ` 
-⚔️ Mengewe Dan Menusuk Tubuhnya..... 
+⚔️ Mengew* Dan Menusuk Tubuhnya..... 
 `
 
 var dimas3 = `
@@ -40,7 +40,7 @@ var dimas3 = `
 `
 
 var dimas4 = `
-💼 Hasil Dari Membunuh Dan Mengewenya....
+💼 Hasil Dari Membunuh Dan Mengew3nya....
 `
 
 var hsl = `

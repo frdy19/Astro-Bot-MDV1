@@ -9,13 +9,13 @@ let handler = async (m, {
 	let plastik = global.db.data.users[m.sender].plastik
 
 	let ndy = `
-*《 ISI KARUNG MU 》*
+*I S I - K A R U N G*
     
- *➲️   ️ 🧺 = [ ${botol} ] Botol*
- *➲   ️ 🧺 = [ ${kardus} ] Kardus*
- *➲   ️ 🧺 = [ ${kaleng} ] Kaleng*
- *➲   ️ 🧺 = [ ${gelas} ] Gelas*
- *➲   ️ 🧺 = [ ${plastik} ] Plastik*   
+ *❏   ️ 🧺 = [ ${botol} ] Botol*
+ *❏   ️ 🧺 = [ ${kardus} ] Kardus*
+ *❏   ️ 🧺 = [ ${kaleng} ] Kaleng*
+ *❏   ️ 🧺 = [ ${gelas} ] Gelas*
+ *❏   ️ 🧺 = [ ${plastik} ] Plastik*   
  `.trim()
 	conn.reply(m.chat, ndy, m)
 }

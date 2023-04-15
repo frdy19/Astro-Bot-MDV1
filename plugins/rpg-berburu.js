@@ -47,7 +47,7 @@ let name = conn.getName(m.sender)
 		let anti12 = `${rbrb12}`
 
 		let hsl = `
-*《 Hasil Berburu Kali Ini 》*
+*H A S I L - B E R B U R U*
 
  *🐂 = [ ${anti1} ]*			 *🐃 = [ ${anti7} ]*
  *🐅 = [ ${anti2} ]*			 *🐮 = [ ${anti8} ]*
@@ -79,7 +79,7 @@ let name = conn.getName(m.sender)
 		}, 18000)
 
 		setTimeout(() => {
-			m.reply('Duarrr M**** 🗿')
+			m.reply('Duarrr M***K 🗿')
 		}, 15000)
 
 		setTimeout(() => {
@@ -87,7 +87,7 @@ let name = conn.getName(m.sender)
 		}, 14000)
 
 		setTimeout(() => {
-			m.reply('Sedang Mencari Mangsa Untuk Di Ewe...')
+			m.reply('Sedang Mencari Mangsa Untuk Di Ew*...')
 		}, 0)
 		user.lastberburu = new Date * 1
 	} else conn.sendButton(m.chat, `\n*Sepertinya Anda Sudah Kecapekan*\n*Silahkan Istirahat Dulu Sekitar ${timers}*\n*Untuk Bisa Melanjutkan Berburu*\n`, author, null, [

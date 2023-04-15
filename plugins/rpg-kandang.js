@@ -16,7 +16,7 @@ let handler = async (m, {
 	let ayam = global.db.data.users[m.sender].ayam
 
 	let ndy = `
-*《 KANDANG MU 》*
+*K A N D A N G*
     
  *➲️   ️ 🐂 = [ ${banteng} ] Ekor Banteng*
  *➲   ️ 🐅 = [ ${harimau} ] Ekor Harimau*

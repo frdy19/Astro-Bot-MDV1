@@ -146,7 +146,7 @@ conn.sendButton(m.chat, '*–––––『 INVENTORY 』–––––*', cap
 [`Adventure`, `.adventure`]
 ], m, {asLocation: true})
 }
-handler.help = ['inventory', 'inv']
+handler.help = ['inventory', 'inv', 'me']
 handler.tags = ['rpg']
 handler.command = /^(inv(entory)?|bal(ance)?|money|e?xp)$/i
 export default handler

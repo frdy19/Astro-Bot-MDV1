@@ -7,7 +7,7 @@ if (!args[0]) throw `Linknya?`
   let cap = `Nih Kak Videonya >,<`
   conn.sendFile(m.chat, x.download.nowm, 'tiktok.mp4', cap, m)
 }
-handler.help = ['tiktok','ttdl']
+handler.help = ['tiktok','tt']
 handler.tags = ['downloader']
 handler.command = /^(tiktokdl|ttdl|tiktok|tt)$/i
 export default handler
