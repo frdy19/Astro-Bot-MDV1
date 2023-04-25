@@ -18,18 +18,18 @@ let handler = async (m, {
 	let ndy = `
 *K A N D A N G*
     
- *➲️   ️ 🐂 = [ ${banteng} ] Ekor Banteng*
- *➲   ️ 🐅 = [ ${harimau} ] Ekor Harimau*
- *➲   ️ 🐘 = [ ${gajah} ] Ekor Gajah*
- *➲   ️ 🐐 = [ ${kambing} ] Ekor Kambing*
- *➲   ️ 🐼 = [ ${panda} ] Ekor Panda*
- *➲   ️ 🐊 = [ ${buaya} ] Ekor Buaya*
- *➲   ️ 🐃 = [ ${kerbau} ] Ekor Kerbau*
- *➲️   ️ 🐮 = [ ${sapi} ] Ekor Sapi*
- *➲️   ️ 🐒 = [ ${monyet} ] Ekor Monyet*
- *➲   ️ 🐗 = [ ${babihutan} ] Ekor Babi Hutan*
- *➲   ️ 🐖 = [ ${babi} ] Ekor Babi*
- *➲️   ️ 🐓 = [ ${ayam} ] Ekor Ayam*
+ *❏   ️ 🐂 = [ ${banteng} ] Ekor Banteng*
+ *❏   ️ 🐅 = [ ${harimau} ] Ekor Harimau*
+ *❏   ️ 🐘 = [ ${gajah} ] Ekor Gajah*
+ *❏   ️ 🐐 = [ ${kambing} ] Ekor Kambing*
+ *❏   ️ 🐼 = [ ${panda} ] Ekor Panda*
+ *❏   ️ 🐊 = [ ${buaya} ] Ekor Buaya*
+ *❏   ️ 🐃 = [ ${kerbau} ] Ekor Kerbau*
+ *❏   ️ 🐮 = [ ${sapi} ] Ekor Sapi*
+ *❏   ️ 🐒 = [ ${monyet} ] Ekor Monyet*
+ *❏   ️ 🐗 = [ ${babihutan} ] Ekor Babi Hutan*
+ *❏   ️ 🐖 = [ ${babi} ] Ekor Babi*
+ *❏   ️ 🐓 = [ ${ayam} ] Ekor Ayam*
  `.trim()
 	conn.reply(m.chat, ndy, m)
 }

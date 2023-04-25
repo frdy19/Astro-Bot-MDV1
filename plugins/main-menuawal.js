@@ -99,7 +99,7 @@ let name = conn.getName(m.sender)
 }
 } })*/
 let nowaa = '0'
-let nogww = '62823504965329'
+let nogww = '62823504965328'
 let nogwww = `@${nomorown1.split`@`[0]}`
 let nowa = `${nowaa.split`@`[0]}@s.whatsapp.net`
 let nogw = `${nogww.split`@`[0]}@s.whatsapp.net`
@@ -111,8 +111,8 @@ let but3 = ('Sewabot')
 let id3 = '.sewa'
 let konten = (`*${ucapan()}, ${tag} 👋*`)
 let knnt = `
-Jangan Pernah Mengeluh Karna Doamu Tidak Terkabulkan, Karna Tuhan Memberi Apa Yang Kamu Butuhkan Bukan Apa Yang Kamu Inginkan!!!`
-let ᴛᴇs = `Powered By Ferrd\nCreator By Xfarr`
+Halo...Sebelum Ke Menu Baca Dulu Rules Bot Ya..\n1.Dilarang Spam Bot\n2.Jangan Call/Video Call Bot\n3.Jika ada fitur error atau bug bisa lapor ke owner agar diperbaiki\n\nJangan lupa join grup bot: https://chat.whatsapp.com/FQH6CI63LJCBTySzClHrrg\nsilahkan pilih salah satu button dibawah`
+let ᴛᴇs = `Powered By DCoder ID\nSupport By WhatsApp`
 let wkwk = 'https://telegra.ph/file/ef6ceeab79acd63bf7927.jpg'
 
 conn.sendButton(m.chat, knnt, ᴛᴇs, await genProfile(conn, m), [["Menu 1", `.! all`],["Menu 2", `.? all`]], fkon )

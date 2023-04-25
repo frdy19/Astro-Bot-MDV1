@@ -61,9 +61,9 @@ ${sortedItem.slice(page * 0, page * 5 + 5).map((user, i) => `${i + 1}.*﹙${user
     mentions: [...userItem.slice(page * 0, page * 5 + 5)].filter(v => !participants.some(p => areJidsSameUser(v, p.id))),
     asLocation: true})
 }
-handler.help = ['leaderboard', 'lb']
+handler.help = ['leaderboard', 'lb' 'top']
 handler.tags = ['xp']
-handler.command = /^(leaderboard|lb)$/i
+handler.command = /^(leaderboard|lb|top)$/i
 
 export default handler
 
