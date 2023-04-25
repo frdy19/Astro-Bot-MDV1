@@ -9,7 +9,7 @@ let handler = async (m, { conn }) => {
 	});
 };
 handler.customPrefix =
-	/^(favorite)$/i;
+	/^(vn3)$/i;
 handler.command = new RegExp();
 
 export default handler;

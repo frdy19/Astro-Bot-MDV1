@@ -8,7 +8,7 @@ let handler = async (m, { conn }) => {
 		ptt: true,
 	});
 };
-handler.customPrefix = /^(lopyou|lopyu|loveyou|love|lope)$/i;
+handler.customPrefix = /^(vn4)$/i;
 handler.command = new RegExp();
 
 export default handler;

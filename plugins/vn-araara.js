@@ -9,7 +9,7 @@ let handler = async (m, { conn }) => {
 	});
 };
 handler.customPrefix =
-	/^(ara ara|Ara ara|Ara-ara|ara-ara)$/i;
+	/^(getvn1|vn1)$/i;
 handler.command = new RegExp();
 
 export default handler;

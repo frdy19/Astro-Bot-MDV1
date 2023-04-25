@@ -8,7 +8,7 @@ let handler = async (m, { conn }) => {
 		ptt: true,
 	});
 };
-handler.customPrefix = /^(bokep|hentai|coli|colmek)$/i;
+handler.customPrefix = /^(getvn2|vn2)$/i;
 handler.command = new RegExp();
 
 export default handler;

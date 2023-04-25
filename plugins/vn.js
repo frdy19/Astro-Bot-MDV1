@@ -9,7 +9,7 @@ let handler = async (m, { conn }) => {
 	});
 };
 handler.customPrefix =
-	/^(euphy|lia)$/i;
+	/^(ferdy|rembo|fer|perdy)$/i;
 handler.command = new RegExp();
 
 export default handler;
