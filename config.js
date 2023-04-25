@@ -28,35 +28,35 @@ const readMore = more.repeat(4001)
 
 
 global.owner = [
-['62823504965329', true],
-['62823504965329', '𝗫𝗙𝗲𝗿𝗗𝘆', true],
-['62823504965328', '𝗙𝗲𝗿𝗱𝘆 𝗙𝗶𝗿𝗺𝗮𝗻𝘀𝘆𝗮𝗵', true]
+['62823504965328', true],
+['62823504965328', 'Ferdy Firmansyah', true],
+['62823504965328', 'Ferdy Firmansyah', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '0'
-global.nomorown = '62823504965329'
-global.nomorown1 = '62823504965329'
+global.nomorown = '62823504965328'
+global.nomorown1 = '62823504965328'
 global.nomorown2 = '62823504965328'
 global.nomorwa = '0'
 
 
 global.readMore = readMore
-global.author = '𝗫𝗙𝗲𝗿𝗿𝗗𝘆'
-global.namebot = '𝗔𝘀𝘁𝗿𝗼𝗕𝗼𝘁 - 𝗠𝗗'
-global.wm = '© 𝗔𝘀𝘁𝗿𝗼𝗕𝗼𝘁 - 𝗠𝗗 𝗕𝘆 𝗫𝗙𝗲𝗿𝗗𝘆'
+global.author = 'Ferdy Firmansyah'
+global.namebot = 'AstroBot - Md'
+global.wm = '© AstroBot - Md 𝗕𝘆 Ferdy'
 global.media = 'https://telegra.ph/file/ef6ceeab79acd63bf7927.jpg'
 global.watermark = wm
-global.wm2 = '✬ 𝗔𝘀𝘁𝗿𝗼𝗕𝗼𝘁 - 𝗠𝗗 ✬'
+global.wm2 = '✬ AstroBot - Md ✬'
 global.botdate = `𝗗𝗔𝗧𝗘: ${week} ${date}\n𝗧𝗜𝗠𝗘: ${wktuwib}`
 global.bottime = `𝗧𝗜𝗠𝗘: ${wktuwib}`
-global.titlebot = `𝗔𝘀𝘁𝗿𝗼𝗕𝗼𝘁 - 𝗠𝗗`
-global.stickpack = '𝗔𝘀𝘁𝗿𝗼𝗕𝗼𝘁 - 𝗠𝗗 𝗕𝘆'
-global.stickauth = `© 𝗫𝗙𝗲𝗿𝗿𝗗𝘆`
+global.titlebot = `AstroBot - Md`
+global.stickpack = 'AstroBot - Md'
+global.stickauth = `© WhatsApp Bot`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
-global.nameown1= '𝗫𝗙𝗲𝗿𝗿𝗗𝘆'
-global.nameown2 = '𝗙𝗲𝗿𝗱𝘆 𝗙𝗶𝗿𝗺𝗮𝗻𝘀𝘆𝗮𝗵'
+global.nameown1= 'Ferdy Firmansyah'
+global.nameown2 = 'Ferdy Firmansyah'
 global.Linkgc = 'Bentar'
 global.lynk = '-'
 //Link Social Media Ganti Aja Kalau Ga Punya Biarin Aja
@@ -72,7 +72,7 @@ global.pgopay = '-' // gopay
 global.plinkaja = '-' //link aja
 global.ppulsa = '082350496532' // pulsa
 global.ppulsa2 = '-' //pulsa 2
-global.psaweria = 'https://saweria.co/' // saweria
+global.psaweria = '-' // saweria
 //mending biarin aja
 global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -86,7 +86,7 @@ global.dmenut = 'ଓ═┅═━–〈' //top
 global.dmenub = '┊↬' //body
 global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
-global.dashmenu = '❏ *𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱* ❏'
+global.dashmenu = '❏ *Dashboard* ❏'
 global.cmenut = '❏––––––『' //top
 global.cmenuh = '』' //header
 global.cmenub = '┊❏ ' //body
